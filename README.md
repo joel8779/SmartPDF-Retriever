@@ -58,16 +58,6 @@ flowchart TD
 
 ---
 
-## System Screens (Placeholders)
-
-### 1. Ingestion Interface
-> *Placeholder: Capture a screenshot of the Streamlit sidebar/uploader showing a PDF file (e.g., `temp.pdf`) being successfully uploaded and parsed into chunks.*
-
-### 2. Semantic Question Answering Dashboard
-> *Placeholder: Capture a screenshot of the main query panel showing a natural language question (e.g., "What is the core methodology?") and the generated text output.*
-
----
-
 ## Tech Stack
 
 *   **Language**: Python 3.8+
