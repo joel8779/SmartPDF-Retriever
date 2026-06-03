@@ -1,1 +1,7 @@
 /venv
+backend/venv/
+__pycache__/
+*.pyc
+data/vector_store/
+data/uploads/
+temp.pdf
